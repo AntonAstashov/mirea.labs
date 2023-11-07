@@ -1,6 +1,6 @@
-package ru.mirea.kabo.lab1;
+package ru.mirea.kabo.task1;
 import java.util.Scanner;
-public class Example3 {
+public class Example7 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int result = 1;

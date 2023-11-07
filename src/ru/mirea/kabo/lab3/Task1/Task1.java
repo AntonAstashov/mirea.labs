@@ -1,4 +1,4 @@
-package ru.mirea.kabo.lab3.MathRandom.Task1;
+package ru.mirea.kabo.lab3.Task1;
 
 import java.util.Arrays;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package ru.mirea.kabo.task2.task1;
+package ru.mirea.kabo.lab2.task1;
 
 public class Author {
     private String name;

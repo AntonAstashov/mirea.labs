@@ -1,4 +1,4 @@
-package ru.mirea.kabo.lab3.MathRandom.Task3;
+package ru.mirea.kabo.lab3.Task3;
 
 import java.util.concurrent.ThreadLocalRandom;
 public class ArrayRandom {
@@ -28,5 +28,3 @@ public class ArrayRandom {
         }
     }
 }
-
-

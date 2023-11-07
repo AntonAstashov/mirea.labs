@@ -1,4 +1,4 @@
-package ru.mirea.kabo.lab1;
+package ru.mirea.kabo.task1;
 import java.util.Scanner;
 
 public class Example1 {
